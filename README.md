@@ -4,7 +4,7 @@ Autor: Daniel Carrasco Luque
 Lenguaje: C
 Licencia: MIT
 📖 Descripción
-VerificarDNI es un programa en C que permite verificar si la letra asociada a un número de DNI español es correcta. Realiza validaciones de entrada, calcula la letra oficial según el algoritmo de la DGT y compara con la introducida por el usuario.
+VerificarDNI es un programa en C que permite verificar si la letra asociada a un número de DNI español es correcta. Realiza validaciones de entrada, calcula la letra según el algoritmo oficial y compara con la introducida por el usuario.
 
 ## 📦 Estructura del proyecto
 
